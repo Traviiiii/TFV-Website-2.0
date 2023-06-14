@@ -1,2 +1,2 @@
-# TFV Site 2
- 
+**Task Force Valkyrie Site 2.0**
+For this version of the website, I decided to rebuild it entierly from the ground up in a new layout that has fewer pages, making it more maintainable. It also creates an index of all our missions using a CSV file as opposed to being manually updated like the old version. 
